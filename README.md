@@ -35,4 +35,4 @@
 
 **Challenges Overcome:** Integrating the map API and ensuring real-time location updates.
 
-[Ability Assist](https://github.com/09Jeanette/LifestyleDeliciousWebApp)
+[Ability Assist]([https://github.com/09Jeanette/LifestyleDeliciousWebApp](https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp/))
