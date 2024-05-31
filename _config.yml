@@ -1,8 +1,7 @@
 title: Jeanette Kgabe
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-## About Me
-I am a final-year Computer Science student at Tshwane University of Technology with a passion for software development and problem-solving. My goal is to leverage my technical and soft skills in a dynamic work environment where I can continue to learn and grow.
+author:
+  name: Jeanette Kgabe
+  email: jeanettekgabe@gmail.com
 
 
 theme: jekyll-theme-minimal
