@@ -23,13 +23,13 @@
 
 **Challenges Overcome:** Implementing secure user authentication and optimizing the database for efficient product queries.
 
-[Link to Project:](https://github.com/09Jeanette/LifestyleDeliciousWebApp)
+[Link to Project](https://github.com/09Jeanette/LifestyleDeliciousWebApp)
 
 #put image here ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### 2.  Campus Navigation Web App (Python)
 
-**Description:**Created a web application to help new students and visually impared students navigate the campus. The app includes an interactive map, location search, and route planning features.
+**Description:** Created a web application to help new students and visually impared students navigate the campus. The app includes an interactive map, location search, and route planning features.
 
 **Technologies Used:** Python , postgresql , bootstrap , django.
 
