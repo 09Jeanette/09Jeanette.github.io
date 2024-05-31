@@ -2,6 +2,6 @@ title: Jeanette Kgabe
 author:
   name: Jeanette Kgabe
   email: jeanettekgabe@gmail.com
+logo: /images/j.jpg
 
-image: <img src="/images/j.jpg" alt="Jeanette Kgabe" style="border-radius: 50%; width: 150px; height: 150px;">
 theme: jekyll-theme-minimal
