@@ -11,7 +11,7 @@
 -	Assisting students with basic computer literacy and access to TUT services and software.
 
 
-**Sosh 5 Student Resident Mentor @ Tshwane University of Technology | Soshanguve South Campus(_April 2023 - December 2023_)**
+**Sosh 5 Student Resident Mentor @ TUT | Soshanguve South Campus(_April 2023 - December 2023_)**
 -	Provided personalized support, facilitated group sessions, and built trust with mentees to address academic challenges.
 
 ## Projects
