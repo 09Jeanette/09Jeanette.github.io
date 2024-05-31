@@ -34,4 +34,4 @@
 
 **Challenges Overcome:** Integrating the map API and ensuring real-time location updates.
 
-[ability assist](https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp/)
+[Link to the web app(Ability assist)](https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp/)
