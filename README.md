@@ -25,7 +25,7 @@
 
 [Link to Project](https://github.com/09Jeanette/LifestyleDeliciousWebApp)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+[](https://www.bing.com/images/search?view=detailV2&ccid=n9rJXjHp&id=5C6C98D476E4F06F604346A13F11C48FD8A51433&thid=OIP.n9rJXjHp-ta9h6SLIR9rJQHaEI&mediaurl=https%3a%2f%2fwww.entertainmentsa.co.za%2fwp-content%2fuploads%2f2022%2f07%2fKota.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9fdac95e31e9fad6bd87a48b211f6b25%3frik%3dMxSl2I%252fEET%252bhRg%26pid%3dImgRaw%26r%3d0&exph=555&expw=995&q=kota&simid=607999870414844911&FORM=IRPRST&ck=98CAF8C2E7B6FE7DCEB65E2F1A53EC4C&selectedIndex=5&itb=0)
 
 ### 2.  Campus Navigation Web App (Python)
 
