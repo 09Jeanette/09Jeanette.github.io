@@ -1,6 +1,6 @@
 # Final Year Computer Science Student
 
-#### Technical Skills: Java, Oracle Database, MySQL, PL/SQL, html/css 
+#### Technical Skills: Java, Oracle Database, MySQL, PL/SQL, HTML/CSS , Javascript 
 
 ## Education
 - Diploma in Computer Science(2022 - Present)
@@ -19,17 +19,17 @@
 
 **Description:** Developed an e-commerce system that allows users to browse products, add them to a cart, and proceed with secure checkout. The system includes user authentication, product management, and order tracking.
 
-**Technologies Used:** Java , Springboot , postgreSQL , Tomcat , Bootstrap.
+**Technologies Used:** Java , Spring Boot , postgreSQL , Tomcat , Bootstrap.
 
 **Challenges Overcome:** Implementing secure user authentication and optimizing the database for efficient product queries.
 
 [Link to Project](https://github.com/09Jeanette/LifestyleDeliciousWebApp)
 
-#put image here ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### 2.  Campus Navigation Web App (Python)
 
-**Description:** Created a web application to help new students and visually impared students navigate the campus. The app includes an interactive map, location search, and route planning features.
+**Description:** Created a web application to help new students and visually impaired students navigate the campus. The app includes an interactive map, location search, and provides directions to the user's destination.
 
 **Technologies Used:** Python , postgresql , bootstrap , django.
 
