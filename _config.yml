@@ -3,5 +3,5 @@ author:
   name: Jeanette Kgabe
   email: jeanettekgabe@gmail.com
 
-
+ image: <img src="https://github.com/your-github-username/your-repository-name/raw/main/images/j.jpg" alt="Jeanette Kgabe" style="border-radius: 50%; width: 150px; height: 150px;">
 theme: jekyll-theme-minimal
