@@ -1,6 +1,10 @@
-# Final Year Computer Science Student
+#  Computer Science Student
 
-#### Technical Skills: Java, Oracle Database, MySQL, PL/SQL, HTML/CSS , Javascript 
+## About Me
+I am a final-year Computer Science student at Tshwane University of Technology with a passion for software development and problem-solving. My goal is to leverage my technical and soft skills in a dynamic work environment where I can continue to learn and grow.
+
+#### Technical Skills
+- Java , Oracle Database , MySQL, Javascript , Python
 
 ## Education
 - Diploma in Computer Science(2022 - Present)
