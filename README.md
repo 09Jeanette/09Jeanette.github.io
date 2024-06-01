@@ -44,3 +44,7 @@ _April 2023 - December 2023_
 - **Challenges Overcome:** Integrating the map API and ensuring real-time location updates.
 
 - **[Link to the web app (Ability Assist)](https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp/)**
+
+## Contact
+- **Email:** jeanettekgabe@gmail.com
+- **LinkedIn:** [Jeanette Kgabe](https://www.linkedin.com/in/jeanette-kgabe-b3a253309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
