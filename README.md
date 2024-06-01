@@ -29,19 +29,18 @@ _April 2023 - December 2023_
 
 **Description:** Developed an e-commerce system that allows users to browse products, add them to a cart, and proceed with secure checkout. The system includes user authentication, product management, and order tracking.
 
-**Technologies Used:** Java , Spring Boot , postgreSQL , Tomcat , Bootstrap.
+- **Technologies Used:** Java , Spring Boot , postgreSQL , Tomcat , Bootstrap.
 
-**Challenges Overcome:** Implementing secure user authentication and optimizing the database for efficient product queries.
-
-[Link to Project](https://github.com/09Jeanette/LifestyleDeliciousWebApp)
+- **Challenges Overcome:** Implementing user authentication and  and maintaining the state of the items in the cart.
+- **[Link to Project](https://github.com/09Jeanette/LifestyleDeliciousWebApp)**
 
 
 ### 2.  Campus Navigation Web App (Python)
 
 **Description:** Created a web application to help new students and visually impaired students navigate the campus. The app includes an interactive map, location search, and provides directions to the user's destination.
 
-**Technologies Used:** Python , postgreSQL , bootstrap , django.
+- **Technologies Used:** Python , postgreSQL , bootstrap , django.
 
-**Challenges Overcome:** Integrating the map API and ensuring real-time location updates.
+- **Challenges Overcome:** Integrating the map API and ensuring real-time location updates.
 
-[Link to the web app(Ability assist)](https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp/)
+- **[Link to the web app (Ability Assist)](https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp/)**
