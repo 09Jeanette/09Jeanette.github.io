@@ -6,7 +6,7 @@ I am a final-year Computer Science student at Tshwane University of Technology w
 
 ## Technical Skills
 - **Languages & Technologies:** Java, Oracle Database, MySQL, HTML/CSS/JavaScript , Python 
-- **Frameworks & Tools:** Spring Boot, PostgreSQL, Tomcat, Bootstrap, Django , JEE ,Glassfish
+- **Frameworks & Tools:** Spring Boot, PostgreSQL, Tomcat, Bootstrap, Django, JEE ,Glassfish
 
 ## Education
 - Diploma in Computer Science(2022 - Present)
