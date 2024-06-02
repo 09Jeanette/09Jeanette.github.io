@@ -19,7 +19,7 @@ _April 2024 - Present_
 - Providing comprehensive assistance to ERC and I-center clients, ensuring adherence to TUT policies, rules, and regulations.
 - Assisting students with basic computer literacy and access to TUT services and software.
 
-### Sosh 5 Student Resident Mentor
+###  Student  Mentor
 **Tshwane University of Technology | Soshanguve South Campus**  
 _April 2023 - December 2023_
 - Provided personalized support, facilitated group sessions, and built trust with mentees to address academic challenges.
@@ -27,7 +27,7 @@ _April 2023 - December 2023_
 ## Projects
 ### 1. E-commerce System (Java)
 
-**Description:** Developed an e-commerce system that allows users to browse products, add them to a cart, and proceed with secure checkout. The system includes user authentication, product management, and order tracking.
+**Description:** Developed an e-commerce system that allows users to browse products, add them to a cart, and proceed with secure checkout.
 
 - **Technologies Used:** Java , Spring Boot , postgreSQL , Tomcat , Bootstrap.
 
